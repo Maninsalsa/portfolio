@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     siteName: "Robert Manansala Portfolio",
     // Temporarily commented out until OG image is created
     /*
-    images: [
+    images: [ 
       {
         url: "/og-image.jpg", // Create and add an Open Graph image
         width: 1200,
